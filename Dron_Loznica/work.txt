@@ -1,5 +1,0 @@
-- Battery:
-	- https://www.rcbuggyland.com/product-page/peak-power-plant-lipo-5000-11-1-v-45c-black-case-ec5-12awg
-- ESP32
-	https://malina314.com/proizvod/esp32-c6-n8/
-	https://malina314.com/proizvod/esp32-c6-mini/
